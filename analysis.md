@@ -2,7 +2,7 @@
 
 ## Introduction
 
-According to a report published by Booz Allen Hamilton, Beijing’s chief motivations for carrying out cyberattacks or espionage are related to the nation’s political system, territory, and economy. The report identifies three “core interests” over which China is willing to authorize offensive cyber operations if threatened: Security, Sovereignty, and Development.
+According to a [report published by Booz Allen Hamilton](https://www.csoonline.com/article/3676075/china-s-attack-motivations-tactics-and-how-cisos-can-mitigate-threats.html), Beijing’s chief motivations for carrying out cyberattacks or espionage are related to the nation’s political system, territory, and economy. The report identifies three “core interests” over which China is willing to authorize offensive cyber operations if threatened: Security, Sovereignty, and Development.
 
 Security relates to the guarantee for China’s long-term social stability in its political and social system, organized and led by the CCP. Sovereignty relates to China’s exclusive authority and control in various land and maritime areas. Development relates to China’s ambitions of securing its economic activities.
 
