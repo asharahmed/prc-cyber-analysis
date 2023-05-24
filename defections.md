@@ -50,6 +50,6 @@ For more information on this topic, see the following resources:
 
 [Strategies of Dictatorship and Military Disloyalty during Anti-Authoritarian Protests: Explaining Defections and Coups](https://academic.oup.com/jogss/article-abstract/7/1/ogab033/6501596)
 
-[]()
 
-[]()
+
+[Unravelling the complex nature of security force defection](https://www.researchgate.net/publication/341738004_Unravelling_the_complex_nature_of_security_force_defection)
