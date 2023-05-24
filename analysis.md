@@ -8,7 +8,7 @@ Security relates to the guarantee for China’s long-term social stability in it
 
 ## Tactics
 
-According to a report published by Booz Allen Hamilton, China has developed a [“three warfare”](https://www.csoonline.com/article/3676075/china-s-attack-motivations-tactics-and-how-cisos-can-mitigate-threats.html) approach to shaping the information environment. These are Psychological, Media, and Legal warfare. The report synthesized primary PRC attack tactics based on several recent case studies, outlining four methods most used in campaigns. These are DDoS, defacement of websites/digital signage, breaches of industrial control systems (ICS), and ransomware1.
+According to a report published by Booz Allen Hamilton, China has developed a [“three warfare”](https://www.csoonline.com/article/3676075/china-s-attack-motivations-tactics-and-how-cisos-can-mitigate-threats.html) approach to shaping the information environment. These are Psychological, Media, and Legal warfare. The report synthesized primary PRC attack tactics based on several recent case studies, outlining four methods most used in campaigns. These are DDoS, defacement of websites/digital signage, breaches of industrial control systems (ICS), and ransomware.
 
 On July 19, 2021, the U.S. government and its allies publicly condemned and blamed the PRC for a series of malicious cyberattacks, including the Microsoft Exchange Hacks, global ransomware attacks, and cyberattacks against [medical research institutes and universities](https://www.ironnet.com/blog/china-cyber-attacks-the-current-threat-landscape).
 
